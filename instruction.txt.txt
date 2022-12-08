@@ -20,3 +20,6 @@ First Time
 # ###########################
 
 .gitignore
+
+# Copy repository
+git clone <OYR REPO URL>
